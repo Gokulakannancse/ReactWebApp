@@ -88,7 +88,7 @@ const NavigationComponent = ({ type = 'sidebar', className = '', maxItems = null
           </a>
         </li>
       ))}
-    </ul>
+    </ul>   
   );
 
   const renderMinimalNavigation = () => (
